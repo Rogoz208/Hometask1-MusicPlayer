@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Hometask1 Music Player</string>
+    <string name="previous_track_button">Previous track button</string>
+    <string name="play_or_pause_button">Play or pause button</string>
+    <string name="next_track_button">Next track button</string>
+    <string name="stop_button">Stop button</string>
 </resources>
